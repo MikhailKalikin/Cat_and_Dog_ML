@@ -1,0 +1,1 @@
+Laboratory work on the topic of convolutional neural networks aimed at pattern recognition.
