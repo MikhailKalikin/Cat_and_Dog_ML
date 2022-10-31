@@ -8,7 +8,7 @@ import numpy as np
 model = keras.models.load_model('my_model'
                                 '')
 
-doggy_path = "cat1.jpg"
+doggy_path = "doggy2.jpg"
 
 
 class_names = ['cats', 'dogs']
